@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Navbar from './assets/layout/Navbar.jsx'
-import Herosection from './assets/layout/herosection.jsx'
+import Herosection from './assets/layout/Herosection.jsx'
 import AboutUs from './assets/layout/About.jsx'
 import ServiceList from './assets/layout/SeviceList.jsx'
 import CorporatePage from './assets/layout/Corporate.jsx'
